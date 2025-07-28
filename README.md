@@ -13,16 +13,6 @@ This project is a Machine Learning-based application that predicts the likelihoo
 
 ---
 
-## 🖼️ Screenshots
-
-### Prediction Result Page
-![Prediction Result](images/Screenshot55.png)
-
-### Input Page
-![Input Page](images/Screenshot56.png)
-
-*(Make sure to upload screenshots to an `images/` folder in your repo and adjust paths accordingly.)*
-
 ---
 
 ## ⚙️ Tech Stack
