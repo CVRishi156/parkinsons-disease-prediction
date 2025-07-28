@@ -39,8 +39,8 @@ This project is a Machine Learning-based application that predicts the likelihoo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/CVRishi156/parkinsons-disease-prediction.git
+   
    ```
 
 2. Create a virtual environment & install dependencies:
